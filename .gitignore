@@ -1,2 +1,11 @@
+#windowa system file
 .idea
+#venv folder
 venv
+
+
+#database
+db.sqlite3
+
+#migration
+blog/migrations
